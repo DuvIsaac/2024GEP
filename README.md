@@ -32,7 +32,7 @@ requirements.txt 다운받기
 
 ## 코드 설명
 
-#### `graph.ipynb`
+- #### `graph.ipynb`
 
 그래프 그리는 코드   
 
